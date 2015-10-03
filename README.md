@@ -12,7 +12,7 @@ Access our app here: https://shielded-dusk-6658.herokuapp.com/
 
 ## How
 
-Using the wordnik API, node.js, Heroku and great attitudes!
+Using the wordnik API, node.js, Heroku and great attitudes!!!
 
 If you need help getting started with Node on Heroku, check out this [article](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
