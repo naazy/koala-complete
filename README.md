@@ -4,7 +4,7 @@
 [![Test Coverage](https://codeclimate.com/github/koalabears/koala-complete/badges/coverage.svg)](https://codeclimate.com/github/koalabears/koala-complete/coverage)
 [![codecov.io](http://codecov.io/github/koalabears/koala-complete/coverage.svg?branch=master)](http://codecov.io/github/koalabears/koala-complete?branch=master)
 
-## koala-complete
+## koala-complete 
 
 Third in the 'koalabears' series of 'koalabears' projects, koala-complete makes finding words in the english dictionary fast and fun
 
