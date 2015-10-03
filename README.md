@@ -17,7 +17,7 @@ Using the wordnik API, node.js, Heroku and great attitudes!
 If you need help getting started with Node on Heroku, check out this [article](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 
-## How to run our project locally
+## How to run our project locally  
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
